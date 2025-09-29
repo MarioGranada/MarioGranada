@@ -1,7 +1,7 @@
 <h3 align="left">Hi There 👋</h3>
 
 <p align="left">
-This is Mario Granada Hernandez, a software engineer based in Tallinn, Estonia.
+This is Mario Granada Hernandez, a software engineer full of ideas and passionate about technology. Adaptable to multiple frameworks and languages.
 
 Welcome to my profile! 
 </p>

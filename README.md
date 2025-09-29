@@ -19,6 +19,7 @@ Welcome to my profile!
 <br />
 
 
+![Mario Granada Hernandez](./bottom_header.svg)
 
 
 

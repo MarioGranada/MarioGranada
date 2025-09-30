@@ -23,7 +23,7 @@ Welcome to my profile!
 <br />
 <br />
 
-<img align="left" itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/4223?s=200&amp;v=4" width="45px" height="45px" alt="@rails">
+<img align="left"  src="https://avatars.githubusercontent.com/u/4223?s=200&amp;v=4" width="45px" height="45px" alt="@rails">
 <img align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="GraphQL" width="45px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />
 <img align="left" src="https://github.com/angular/angular/angular/angular/raw/main/adev/src/assets/images/press-kit/angular_icon_gradient.gif" alt="angular-logo" width="45px" height="45px" >

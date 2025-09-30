@@ -38,7 +38,7 @@ Welcome to my profile!
 <br />
 <br />
 
-<p>So, what do we want to build? &#x1F604; </p>
+So, what do we want to build? &#x1F604;
 
 <br />
 <br />

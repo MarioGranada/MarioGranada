@@ -38,9 +38,4 @@ Welcome to my profile!
 <br />
 <br />
 
-So, what do we want to build? &#x1F604;
-
-<br />
-<br />
-
 ![Mario Granada Hernandez](./bottom_header.svg)

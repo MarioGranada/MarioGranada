@@ -1,7 +1,7 @@
 <h1>Hi There 👋</h1>
 
 <p>
-This is Mario Granada Hernandez, a software engineer full of ideas and passionate about technology. Adaptable to multiple frameworks and languages.
+My name is Mario Granada Hernandez, I'm a software engineer full of ideas and passionate about technology, adaptable to multiple frameworks and languages.
 </p>
 
 <h3>

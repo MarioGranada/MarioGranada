@@ -8,6 +8,7 @@ Welcome to my profile!
 
 <h3 align="left"> You can count on me on any project you want to build, my current Tech Stack is (but not restricted):</h3>
 
+<img align="left" alt="Next.js" width="45px" src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_dark_background.png" />
 <img align="left" alt="Elixir" width="45px" src="https://raw.githubusercontent.com/github/explore/d106aa3f6fa091ab80ab5c8cf0d931baff3caaea/topics/elixir/elixir.png" />
 <img align="left" alt="Phoenix" width="45px" src="https://miro.medium.com/max/4800/1*THRh4--2uAqVuBM_Iab78A.png" />
 <img align="left" alt="GraphQL" width="45px" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png" />

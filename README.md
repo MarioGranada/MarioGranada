@@ -22,6 +22,7 @@ Welcome to my profile!
 
 <br />
 <br />
+<img align="left" src="https://www.ruby-lang.org/images/header-ruby-logo.png" width="45px"  alt="@rails">
 
 <img align="left" src="https://avatars.githubusercontent.com/u/4223?s=200&amp;v=4" width="45px"  alt="@rails">
 <img align="left" alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />

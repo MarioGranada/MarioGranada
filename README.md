@@ -32,7 +32,7 @@ Welcome to my profile!
 
 <br clear="both" />
 <br />
-
+<br />
 <p align="left"> So, what do we want to build?</p>
 
 <br />

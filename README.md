@@ -1,4 +1,4 @@
-<h1>Hi There 👋</h1>
+<h1>Hi There &#x1F44B; </h1>
 
 <p>
 My name is Mario Granada Hernandez, I'm a software engineer full of ideas and passionate about technology, adaptable to multiple frameworks and languages.
@@ -34,6 +34,11 @@ Welcome to my profile!
 <img align="left"  src="https://avatars.githubusercontent.com/u/6128107?s=200&amp;v=4" width="45px" height="45px" alt="@vuejs">
 <img align="left" src="https://avatars.githubusercontent.com/u/28507035?v=4" width="45px" alt="Nest Logo" >
 </p>
+
+<br />
+<br />
+
+<p>So, what do we want to build? &#x1F604; </p>
 
 <br />
 <br />

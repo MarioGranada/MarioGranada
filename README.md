@@ -19,7 +19,7 @@ Welcome to my profile!
 <img align="left" alt="Phoenix" width="45px" src="https://miro.medium.com/max/4800/1*THRh4--2uAqVuBM_Iab78A.png" />
 <img align="left" alt="Javascript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Typescript" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-
+<img align="left" src="https://avatars.githubusercontent.com/u/9919?v=4" height="45px"  alt="Github">
 <img align="left" src="https://avatars.githubusercontent.com/u/30317862?v=4" height="45px"  alt="TailwindCss">
 <img align="left"  src="https://avatars.githubusercontent.com/u/5155369?s=200&amp;v=4" height="45px" alt="@figma">
 <img align="left" src="https://avatars.githubusercontent.com/u/210414?v=4" width="45px"  alt="Ruby">
@@ -30,12 +30,10 @@ Welcome to my profile!
 <img align="left"  src="https://avatars.githubusercontent.com/u/6128107?s=200&amp;v=4" width="45px" height="45px" alt="@vuejs">
 <img align="left" src="https://avatars.githubusercontent.com/u/28507035?v=4" width="45px" alt="Nest Logo" >
 
-<br />
+<br clear="both" />
 <br />
 
-<p align="left">
-So, what do we want to build?
-</p>
+<p align="left"> So, what do we want to build?</p>
 
 <br />
 <br />
